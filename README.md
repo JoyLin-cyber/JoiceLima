@@ -4,7 +4,7 @@ Desenvolvedora
 Experiência em programação web e soluções de dados. Tenho grande apreço pela tecnologia e suas possibilidades.
 
 
-<button> Quem Sou Eu
+## Quem Sou Eu
 
 Profissional com experiência sólida em Infraestrutura de TI, atuando diretamente na gestão de contratos de internet, coordenação de instalações em unidades, compras de tecnologia (equipamentos e software). Ao longo da minha trajetória, desenvolvi habilidades técnicas e operacionais que me permitiram oferecer soluções rápidas, eficientes e alinhadas às necessidades do negócio.
 
