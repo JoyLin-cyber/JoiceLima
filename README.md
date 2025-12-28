@@ -12,7 +12,7 @@ Atualmente, estou focada no desenvolvimento de sites modernos e responsivos, uni
 
 Sou movida por desafios e pela busca constante de evolução, seja em tecnologia, atendimento ou criação de soluções digitais.
 
-[![Contato](img.shields.io)](email: jlf.polissp@gmail.com)
+[![Contato: +55 11 94570 - 0495](img.shields.io)](email: jlf.polissp@gmail.com)
 
 Se interessou, entre em contato: +55 11 94570 0495
 
