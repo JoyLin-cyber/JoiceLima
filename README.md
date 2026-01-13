@@ -12,7 +12,7 @@ Atualmente, estou focada no desenvolvimento de sites modernos e responsivos, uni
 
 Sou movida por desafios e pela busca constante de evolução, seja em tecnologia ou criação de soluções digitais.
 
-Meu perfil é interessante para o seu negocio, entre em contato: +55 11 94570 0495.
+Parcerias, meu contato: +55 11 94570 0495.
 
 
 
